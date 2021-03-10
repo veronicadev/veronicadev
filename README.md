@@ -37,27 +37,16 @@ Hey, nice to see you
 
 <br/>
 <br/>
-<img align='left' style="margin-right:15px" src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" width="250">
 <h2> 👨🏽‍💻Talking about Personal Stuffs:</h2>
 
-<p style="font-size:16px">🌱 I’m currently learning Java;<br>
-💬 Ask me about anything, I am happy to help;<br>
+<p style="font-size:16px">
+🎨 I enjoy drawing things I find cool or interesting,<br>
+🙌 I volunteer as a developer for many non-profit org & open source projects,<br>
+🏋️‍♀️ I love exercising & move my body,<br>
+💬 Ask me about anything via <a href="mailto:viarengoveronica@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/veronica-viarengo/" target="_blank">Linked-In.</a><br>
+
 </p>
 
-<!--
-**veronicadev/veronicadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br>
 <br>
 <hr>
