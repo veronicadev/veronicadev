@@ -1,9 +1,10 @@
 <h1 align="center">
+  <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"><br>
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 Hey, nice to see you
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180">
+
 
 <p>Welcome to my page! </br></br> 
 I'm Veronica, a software developer based in <strong>Turin, Italy.</strong> 🇮🇹<br>
