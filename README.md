@@ -50,7 +50,6 @@ I define myself curious and creative and I always push myself to learn something
 
 <p style="font-size:16px">
 🎨 I enjoy drawing things I find cool or interesting,<br>
-🙌 I volunteer as a developer for many non-profit org & open source projects,<br>
 🏋️‍♀️ I love exercising & move my body,<br>
 💬 Ask me about anything via <a href="mailto:viarengoveronica@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/veronica-viarengo/" target="_blank">Linked-In.</a><br>
 
